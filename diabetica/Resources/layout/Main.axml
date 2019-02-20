@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:text="Jürgen Maczioch 44789 Bochum"
+        android:text="   Jürgen Maczioch - Steinring 47 - 44789 Bochum"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

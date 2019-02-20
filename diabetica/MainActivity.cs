@@ -5,7 +5,7 @@ using Syncfusion.SfDataGrid;
 
 namespace diabetica
 {
-    [Activity(Label = "diabetica by jMaczioch 2019 R0221", MainLauncher = true)]
+    [Activity(Label = "Diabetica by jMaczioch 2019 R0221", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -19,9 +19,9 @@ namespace diabetica
 
             sfgrid.AutoGeneratingColumn += HandleAutoGeneratingColumn;
 
-            var viewModel = new OrderInfoRepository();
+            var viewModel      = new OrderInfoRepository();
             sfgrid.ItemsSource = viewModel.OrderInfoCollection;
-            sfgrid.GridStyle = new Dark();
+            sfgrid.GridStyle   = new Dark();
 
             sfgrid.AutoGeneratingColumn += HandleAutoGeneratingColumn;
         }

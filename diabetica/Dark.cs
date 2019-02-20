@@ -11,12 +11,12 @@ namespace diabetica
 
         public override Color GetHeaderBackgroundColor()
         {
-            return Color.Purple; //.Rgb(15, 15, 15);
+            return Color.Purple; 
         }
 
         public override Color GetHeaderForegroundColor()
         {
-            return Color.Yellow; //.Rgb(255, 255, 255);
+            return Color.Yellow; 
         }
 
         public override Color GetRecordBackgroundColor()
@@ -26,12 +26,12 @@ namespace diabetica
 
         public override Color GetRecordForegroundColor()
         {
-            return Color.Yellow; //.Rgb(255, 255, 255);
+            return Color.Yellow;
         }
-             
+
         public override Color GetBorderColor()
         {
-            return Color.White; //.Rgb(81, 83, 82);
+            return Color.White;
         }
       
         public override Color GetAlternatingRowBackgroundColor()

@@ -5,7 +5,8 @@ namespace diabetica.ViewModel
 {
 	public class OrderInfoRepository
 	{
-	    public ObservableCollection<OrderInfo> OrderInfoCollection {
+	    public ObservableCollection<OrderInfo> OrderInfoCollection 
+        {
 			get => OrderInfo;
 	        private set => this.OrderInfo = value;
 		}
