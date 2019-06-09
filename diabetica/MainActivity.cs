@@ -5,10 +5,10 @@ using Syncfusion.SfDataGrid;
 
 namespace diabetica
 {
-    [Activity(Label = infoText, MainLauncher = true)]
+    [Activity(Label = InfoText, MainLauncher = true)]
     public class MainActivity : Activity
     {
-        private const string infoText = "Diabetica by jMaczioch R20190501 ";
+        private const string InfoText = "Diabetica by jMaczioch R20190701";
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
