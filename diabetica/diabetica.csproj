@@ -61,11 +61,11 @@
     <Reference Include="Syncfusion.Licensing, Version=17.1.0.50, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
       <HintPath>..\packages\Syncfusion.Licensing.17.1.0.50\lib\MonoAndroid10\Syncfusion.Licensing.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Linq.Android, Version=16.4451.0.53, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfDataGrid.Android.16.4.0.53\lib\MonoAndroid10\Syncfusion.Linq.Android.dll</HintPath>
+    <Reference Include="Syncfusion.Linq.Android, Version=17.1451.0.50, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Xamarin.SfDataGrid.Android.17.1.0.50\lib\MonoAndroid10\Syncfusion.Linq.Android.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.SfDataGrid.Android, Version=16.4451.0.53, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfDataGrid.Android.16.4.0.53\lib\MonoAndroid10\Syncfusion.SfDataGrid.Android.dll</HintPath>
+    <Reference Include="Syncfusion.SfDataGrid.Android, Version=17.1451.0.50, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Xamarin.SfDataGrid.Android.17.1.0.50\lib\MonoAndroid10\Syncfusion.SfDataGrid.Android.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfNumericTextBox.Android, Version=17.1451.0.50, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Syncfusion.Xamarin.SfNumericTextBox.Android.17.1.0.50\lib\MonoAndroid10\Syncfusion.SfNumericTextBox.Android.dll</HintPath>
