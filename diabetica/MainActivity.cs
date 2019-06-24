@@ -14,6 +14,8 @@ namespace diabetica
         {
             base.OnCreate(savedInstanceState);
 
+            //TODO:
+
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
