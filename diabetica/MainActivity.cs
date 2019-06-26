@@ -13,6 +13,7 @@ namespace diabetica
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            //TODO:
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
